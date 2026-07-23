@@ -1,3 +1,1 @@
 The is a test text file
-
-This is an accidental chnage
